@@ -36,7 +36,7 @@ app/locale/da_DK/Mage_Install.csv	app/locale/da_DK/Mage_Install.csv
 app/locale/da_DK/Mage_Log.csv	app/locale/da_DK/Mage_Log.csv
 app/locale/da_DK/Mage_Media.csv	app/locale/da_DK/Mage_Media.csv
 app/locale/da_DK/Mage_Newsletter.csv	app/locale/da_DK/Mage_Newsletter.csv
-app/locale/da_DK/Mage_OAuth.csv	app/locale/da_DK/Mage_OAuth.csv
+app/locale/da_DK/Mage_Oauth.csv	app/locale/da_DK/Mage_Oauth.csv
 app/locale/da_DK/Mage_Page.csv	app/locale/da_DK/Mage_Page.csv
 app/locale/da_DK/Mage_PageCache.csv	app/locale/da_DK/Mage_PageCache.csv
 app/locale/da_DK/Mage_Paygate.csv	app/locale/da_DK/Mage_Paygate.csv
